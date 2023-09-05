@@ -1,13 +1,13 @@
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+## Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
-# AIM:
+## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
-# Equipments Required:
+## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-# Algorithm
+## Algorithm
 
 1.Import the standard Libraries.
 
@@ -68,7 +68,7 @@ rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
 
-# Output:
+## Output:
 ### df.head()
 ![Screenshot 2023-09-05 104348](https://github.com/sujigunasekar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559822/b153bb27-164d-43de-b78f-2d687047915e)
 
@@ -93,5 +93,5 @@ print("RMSE= ",rmse)
 ### Values of MSE, MAE and RMSE
 ![Screenshot 2023-09-05 105218](https://github.com/sujigunasekar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119559822/6f20014e-2e8b-4218-9ffd-f6f174d43a7d)
 
-# Result:
+## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
